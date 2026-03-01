@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+redteamai-env/
+venv/
+reports/
+.env
